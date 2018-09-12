@@ -1,1 +1,2 @@
 FLASK_APP=app.microblog
+FLASK_DEBUG=True
