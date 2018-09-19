@@ -1,0 +1,3 @@
+#+TITLE: Flask Studies
+
+  These are notes as I (sort of) go through the [[https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world][Flask Mega-Tutorial]] I say sort of because I started with it but I'm actually going through the book =Flask Web Development= instead.
