@@ -863,10 +863,6 @@ ul.pager li a {
     border-bottom-left-radius: 0;
 }
 
-/* @import url("https://fonts.googleapis.com/css?family=Goudy+Bookletter+1911:400,700");
-@import url('https://fonts.googleapis.com/css?family=Cinzel');
-@import url('https://fonts.googleapis.com/css?family=EB+Garamond');
-*/
 @font-face {
     font-family: 'goudybookletter';
     src: url('../fonts/GoudyBookletter1911/GoudyBookletter1911.woff') format('woff'),
